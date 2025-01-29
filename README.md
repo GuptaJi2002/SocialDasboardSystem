@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 - DEMO: Cd project
 - npm install
 - npm run dev
+-http://localhost:5173/
